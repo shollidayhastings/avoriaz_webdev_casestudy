@@ -1,0 +1,77 @@
+FONT AWESOME:
+login: sherryhastings@mac.com
+GoTeamGo2025!
+
+icons:
+
+brightness:
+light <i class="fa-light fa-brightness"></i>
+regular <i class="fa-regular fa-brightness"></i>
+
+gondola:
+light <i class="fa-light fa-cable-car"></i>
+regular <i class="fa-regular fa-cable-car"></i>
+
+webcam:
+light <i class="fa-light fa-camera-web"></i>
+regular <i class="fa-regular fa-camera-web"></i>
+
+location:
+light <i class="fa-light fa-location-dot"></i>
+regulalr <i class="fa-regular fa-location-dot"></i>
+
+
+SKI ICONS:
+
+ski lift: <i class="fa-regular fa-person-ski-lift"></i>
+
+skier: <i class="fa-regular fa-person-skiing"></i>
+
+nordic: <i class="fa-regular fa-person-skiing-nordic"></i>
+
+thumbs up: <i class="fa-regular fa-thumbs-up"></i>
+
+mountain: <i class="fa-regular fa-mountain-sun"></i>
+
+flag: <i class="fa-regular fa-flag"></i>
+
+arrows:
+right <i class="fa-solid fa-arrow-right"></i>
+left <i class="fa-solid fa-arrow-left"></i>
+
+SOCIAL
+
+facebook: <i class="fa-brands fa-facebook-f"></i>
+
+instagram: <i class="fa-brands fa-instagram"></i>
+
+twitter: <i class="fa-brands fa-twitter"></i>
+
+youtube: <i class="fa-brands fa-youtube"></i>
+
+pinterest: <i class="fa-brands fa-pinterest-p"></i>
+
+tiktok: <i class="fa-brands fa-tiktok"></i>
+
+FUNCTIONS
+
+checkmark: <i class="fa-solid fa-check"></i>
+
+search: <i class="fa-regular fa-magnifying-glass"></i>
+
+brochure/map: <i class="fa-regular fa-map"></i>
+
+user;
+outline: <i class="fa-regular fa-user"></i>
+solid: <i class="fa-solid fa-user"></i>
+
+plus: <i class="fa-solid fa-plus"></i>
+
+close: <i class="fa-solid fa-xmark"></i>
+
+shopping cart:
+solid: <i class="fa-solid fa-cart-shopping"></i>
+outline: <i class="fa-regular fa-cart-shopping"></i>
+
+shopping cart: with plus
+<i class="fa-regular fa-cart-plus"></i>
