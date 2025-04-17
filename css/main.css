@@ -60,3 +60,49 @@ body {
 .orange a {
     color: white;
 }
+
+/* OUTLINED BUTTONS */
+
+.outline-brochures {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-weight: bold;
+    border: none;
+    color: darkblue;
+    background: white;
+    border: .5px solid darkblue;
+    padding: 20px 120px;
+    font-size: 12px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
+
+.outline-partners {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    border: none;
+    color: darkblue;
+    background: white;
+    border: .5px solid darkblue;
+    padding: 20px 120px;
+    font-size: 12px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
+
+.outline-faq {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    border: none;
+    color: darkblue;
+    background: white;
+    border: .5px solid darkblue;
+    padding: 20px 130px;
+    font-size: 12px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
