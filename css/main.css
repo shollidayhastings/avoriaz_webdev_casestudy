@@ -462,7 +462,7 @@ a:active {
 }
 
 .logo-lockup {
-    width: 150px;
+    width: 120px;
     margin: 0;
 }
 
@@ -493,4 +493,8 @@ a:active {
     text-decoration: none;
     padding: 1rem;
     margin: 0;
+}
+
+.nav-extra {
+    font-size: 10px;
 }
