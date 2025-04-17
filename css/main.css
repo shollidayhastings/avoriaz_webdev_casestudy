@@ -1,0 +1,62 @@
+body {
+    font-family: "Helvetica Condensed Bold", sans-serif;
+}
+
+.button-img {
+    width: 800px;
+    display: block;
+}
+
+.h1 {
+    text-transform: uppercase;
+    color: gray;
+}
+
+.subtitle {
+    color: gray
+}
+
+/* ORANGE BUTTONS */
+
+.orange-do {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: orange;
+    padding: 20px 35px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
+
+.orange-ski {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: orange;
+    padding: 20px 85px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
+
+.orange-snow {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: orange;
+    padding: 20px 65px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
+
+.orange a {
+    color: white;
+}
