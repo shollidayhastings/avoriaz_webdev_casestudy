@@ -7,6 +7,11 @@ body {
     display: block;
 }
 
+.button-blue-img {
+    width: 250px;
+    display: inline-block;
+}
+
 .h1 {
     text-transform: uppercase;
     color: gray;
@@ -102,6 +107,32 @@ body {
     border: .5px solid darkblue;
     padding: 20px 130px;
     font-size: 12px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
+
+.blue-chalet {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: rgb(50, 61, 89);
+    padding: 24px 85px;
+    font-size: 15px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+}
+
+.blue-discover {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: rgb(50, 61, 89);
+    padding: 24px 85px;
+    font-size: 15px;
     cursor: pointer;
     display: inline-block;
     margin: 4px;
