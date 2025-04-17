@@ -2,6 +2,17 @@ body {
     font-family: "Helvetica Condensed Bold", sans-serif;
 }
 
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
 .button-img {
     width: 800px;
     display: block;
@@ -28,7 +39,7 @@ body {
     font-weight: bold;
     border: none;
     color: white;
-    background: orange;
+    background: #fdb273;
     padding: 20px 35px;
     font-size: 16px;
     cursor: pointer;
@@ -41,7 +52,7 @@ body {
     font-weight: bold;
     border: none;
     color: white;
-    background: orange;
+    background: #fdb273;
     padding: 20px 85px;
     font-size: 16px;
     cursor: pointer;
@@ -54,7 +65,7 @@ body {
     font-weight: bold;
     border: none;
     color: white;
-    background: orange;
+    background: #fdb273;
     padding: 20px 65px;
     font-size: 16px;
     cursor: pointer;
@@ -169,13 +180,13 @@ a:visited {
 }
 
 a:hover {
-    color: orangered;
-    border-color: orangered;
+    color: #fdb273;
+    border-color: #fdb273;
     font-weight: bolder;
 }
 
 a:active {
-    color: orangered;
+    color: #fdb273;
     font-weight: bolder;
 }
 
@@ -451,18 +462,35 @@ a:active {
 }
 
 .logo-lockup {
-    width: 50px;
+    width: 150px;
+    margin: 0;
 }
 
 .header_container {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    width: 100%;
+    padding: 1rem;
+    max-width: 80rem;
+    margin: auto;
 }
 
-.navbar-list {
+.navbar_container {
     display: flex;
     justify-content: space-between;
+    align-content: center;
+    width: 100%;
+    padding: 1rem;
+}
+
+.navbar-list-a {
+    font-family: "Helvetica", sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 100%;
     list-style: none;
     text-decoration: none;
+    padding: 1rem;
+    margin: 0;
 }
