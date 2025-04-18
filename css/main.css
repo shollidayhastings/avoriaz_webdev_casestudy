@@ -1,3 +1,12 @@
+.root {
+    --font-sans-serif: Helvetica, Helvetica condensed bold, sans-serif;
+    --orange-light: #fdb273;
+    --gray: #56617a;
+    --blue-dark: #133a69;
+}
+
+
+
 body {
     font-family: "Helvetica Condensed Bold", sans-serif;
 }
@@ -11,6 +20,25 @@ html {
 *:before,
 *:after {
     box-sizing: inherit;
+}
+
+/* VIDEO BACKGROUND */
+#snowboarder {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+
+/* test text over VIDEO BACKGROUND */
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 100%;
+    padding: 20px;
 }
 
 .button-img {
