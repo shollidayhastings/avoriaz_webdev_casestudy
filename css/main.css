@@ -624,3 +624,65 @@ a.navhero-extras:active {
     color: #fdb273;
     font-weight: bolder;
 }
+
+
+/* FEATURE TEXTS */
+
+.headline__feature-img {
+    border: 1px solid black;
+    width: 800px;
+}
+
+.opening-orange {
+    font-family: helvetica condensed bold, sans-serif;
+    font-size: 1.3rem;
+    color: #fdb273;
+    text-align: center;
+    line-height: 2rem;
+    margin: 0;
+}
+
+.date-black {
+    font-family: helvetica condensed bold, sans-serif;
+    font-size: 1.3rem;
+    color: black;
+    text-align: center;
+    margin: 0;
+}
+
+/*FEATURE 2*/
+
+
+.headline__feature-text-orange {
+    font-family: var(--font-sans-serif);
+    color: #fdb273;
+    font-size: 5rem;
+    margin: 3rem 0 0 5rem;
+}
+
+.headline__feature-text-black {
+    font-family: var(--font-sans-serif);
+    color: black;
+    font-size: 5rem;
+    margin: 0rem 0 0 9rem;
+}
+
+.headline__feature-text {
+    font-family: Helvetica, sans-serif;
+    font-size: .8rem;
+    color: #56617a;
+    margin: 2rem 0 0 12rem;
+}
+
+.headline__feature-button-orange {
+    font-family: "Helvetica condensed bold", sans-serif;
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: #fdb273;
+    padding: 10px 40px;
+    font-size: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 2rem 0 0 12rem;
+}
