@@ -1,15 +1,14 @@
 .root {
-    --font-sans-serif: Helvetica, Helvetica condensed bold, sans-serif;
+    --font-sans-serif: Poppins, sans-serif;
     --orange-light: #fdb273;
     --gray: #56617a;
     --blue-dark: #133a69;
 }
 
-
-
 body {
-    font-family: "Helvetica Condensed Bold", sans-serif;
+    font-family: Poppins;
 }
+
 
 html {
     box-sizing: border-box;
@@ -63,7 +62,7 @@ html {
 /* ORANGE BUTTONS */
 
 .orange-do {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-weight: bold;
     border: none;
     color: white;
@@ -76,7 +75,7 @@ html {
 }
 
 .orange-ski {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-weight: bold;
     border: none;
     color: white;
@@ -89,7 +88,7 @@ html {
 }
 
 .orange-snow {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-weight: bold;
     border: none;
     color: white;
@@ -108,7 +107,7 @@ html {
 /* OUTLINED BUTTONS */
 
 .outline-brochures {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-weight: bold;
     border: none;
     color: darkblue;
@@ -122,7 +121,7 @@ html {
 }
 
 .outline-partners {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-size: 1em;
     font-weight: bold;
     border: none;
@@ -137,7 +136,7 @@ html {
 }
 
 .outline-faq {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-size: 1em;
     font-weight: bold;
     border: none;
@@ -154,7 +153,7 @@ html {
 /* BLUE BUTTONS */
 
 .blue-chalet {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-weight: bold;
     border: none;
     color: white;
@@ -167,7 +166,7 @@ html {
 }
 
 .blue-discover {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-weight: bold;
     border: none;
     color: white;
@@ -511,7 +510,7 @@ a:active {
 }
 
 .navbar-list-a {
-    font-family: "Helvetica", sans-serif;
+    font-family: var(--font-sans-serif);
     font-size: 15px;
     display: flex;
     justify-content: space-between;
@@ -564,7 +563,7 @@ a:active {
 }
 
 .navbar_hero-list-b {
-    font-family: "Helvetica", sans-serif;
+    font-family: var(--font-sans-serif);
     color: white;
     font-size: 15px;
     display: flex;
@@ -630,11 +629,11 @@ a.navhero-extras:active {
 
 .headline__feature-img {
     border: 1px solid black;
-    width: 800px;
+    width: 900px;
 }
 
 .opening-orange {
-    font-family: helvetica condensed bold, sans-serif;
+    font-family: var(--font-sans-serif);
     font-size: 1.3rem;
     color: #fdb273;
     text-align: center;
@@ -643,7 +642,7 @@ a.navhero-extras:active {
 }
 
 .date-black {
-    font-family: helvetica condensed bold, sans-serif;
+    font-family: var(--font-sans-serif);
     font-size: 1.3rem;
     color: black;
     text-align: center;
@@ -652,37 +651,69 @@ a.navhero-extras:active {
 
 /*FEATURE 2*/
 
+.headline__feature-img1 {
+    width: 270px;
+    height: 450px;
+    position: relative;
+    left: 0;
+    top: 4rem;
+}
+
+.headline__feature-img2 {
+    width: 200px;
+    height: 450px;
+    position: absolute;
+    left: 51rem;
+    top: 51rem;
+}
 
 .headline__feature-text-orange {
     font-family: var(--font-sans-serif);
     color: #fdb273;
     font-size: 5rem;
     margin: 3rem 0 0 5rem;
+    position: absolute;
+    top: 53rem;
+    left: 9rem;
 }
 
 .headline__feature-text-black {
     font-family: var(--font-sans-serif);
     color: black;
     font-size: 5rem;
-    margin: 0rem 0 0 9rem;
+    position: absolute;
+    top: 57rem;
+    left: 18rem;
 }
 
 .headline__feature-text {
-    font-family: Helvetica, sans-serif;
-    font-size: .8rem;
+    font-family: "Poppins";
+    font-style: italic;
+    font-size: .7rem;
+    line-height: 1rem;
     color: #56617a;
-    margin: 2rem 0 0 12rem;
+    position: absolute;
+    top: 67rem;
+    left: 20rem;
 }
 
 .headline__feature-button-orange {
-    font-family: "Helvetica condensed bold", sans-serif;
+    font-family: var(--font-sans-serif);
     font-weight: bold;
     border: none;
     color: white;
     background: #fdb273;
-    padding: 10px 40px;
+    padding: 10px 42px;
     font-size: 5px;
     cursor: pointer;
     display: inline-block;
-    margin: 2rem 0 0 12rem;
+    position: absolute;
+    top: 75rem;
+    left: 20rem;
+}
+
+.headline__feature-img3 {
+    border: 1px solid black;
+    width: 800px;
+    margin: 10rem 0 0 0;
 }
