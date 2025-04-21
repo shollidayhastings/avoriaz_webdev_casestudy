@@ -750,3 +750,98 @@ a.navhero-extras:active {
     width: 800px;
     margin: 10rem 0 0 0;
 }
+
+/* FEATURE 3*/
+
+.feature3__backgroundimage {
+    position: relative;
+}
+
+.feature3__headline {
+    color: black;
+    font-size: 3.4rem;
+    position: absolute;
+    top: 33rem;
+    left: 12rem;
+}
+
+.feature3__subline {
+    color: #fdb273;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 38rem;
+    left: 26rem;
+}
+
+.feature3__activities {
+    font-size: .5rem;
+    font-weight: 500;
+    writing-mode: sideways-lr;
+    position: absolute;
+    top: 40rem;
+    left: 5rem;
+}
+
+.feature3__line {
+    font-size: .6rem;
+    font-weight: 500;
+    writing-mode: sideways-lr;
+    position: absolute;
+    top: 45rem;
+    left: 4.5rem;
+}
+
+.feature3__btn_arrow {
+    background-color: white;
+    color: rgb(45, 93, 112);
+    border: 2px solid rgb(45, 93, 112);
+    border-radius: 50%;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: x-small;
+    position: absolute;
+    top: 52rem;
+    left: 4.5rem;
+}
+
+.feature3__mountainimg {
+    max-width: 450px;
+    position: absolute;
+    top: 42rem;
+    left: 10rem;
+}
+
+.icon-container {
+    position: absolute;
+    top: 45rem;
+    left: 36rem;
+}
+
+.icon__number {
+    font-size: .8rem;
+    color: #fdb273;
+    display: inline-block;
+    margin: 0 .3rem;
+}
+
+.icon__text {
+    font-size: .8rem;
+    color: #56617a;
+    display: inline-block;
+}
+
+.feature3__orange-do {
+    font-family: var(--font-sans-serif);
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: #fdb273;
+    padding: 8px 30px;
+    font-size: 7px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+    position: absolute;
+}
