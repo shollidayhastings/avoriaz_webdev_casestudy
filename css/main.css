@@ -7,6 +7,8 @@
 
 body {
     font-family: Poppins;
+    display: grid;
+    grid-template-columns: repeat(250px 1fr);
 }
 
 
@@ -23,11 +25,20 @@ html {
 
 .site-introh1 {
     color: gray;
+    margin: 2rem;
 }
 
 .site-introh3 {
     color: var(--gray);
     font-weight: lighter;
+    margin: 2rem;
+}
+
+.sidebar__nav-links-container {
+    background-color: aliceblue;
+    padding: 1rem;
+    max-width: 250px;
+    position: sticky;
 }
 
 /* VIDEO BACKGROUND */
