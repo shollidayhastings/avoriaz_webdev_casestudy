@@ -7,8 +7,7 @@
 
 body {
     font-family: Poppins;
-    display: grid;
-    grid-template-columns: repeat(250px 1fr);
+
 }
 
 
@@ -24,21 +23,32 @@ html {
 }
 
 .site-introh1 {
-    color: gray;
+    color: #133a69;
+    font-size: 1.7rem;
+    text-align: center;
     margin: 2rem;
 }
 
 .site-introh3 {
+    font-size: 1rem;
     color: var(--gray);
     font-weight: lighter;
+    text-align: center;
+    line-height: 1.4rem;
     margin: 2rem;
+
 }
 
 .sidebar__nav-links-container {
+    color: #133a69;
     background-color: aliceblue;
     padding: 1rem;
     max-width: 250px;
-    position: sticky;
+}
+
+.sidebar__nav-links {
+    text-decoration: none;
+    list-style: none;
 }
 
 /* VIDEO BACKGROUND */
