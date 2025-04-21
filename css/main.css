@@ -43,11 +43,14 @@ html {
 .button-img {
     width: 800px;
     display: block;
+    border: 1px solid black;
 }
 
 .button-blue-img {
     width: 250px;
     display: inline-block;
+    border: 1px solid black;
+
 }
 
 .h1 {
