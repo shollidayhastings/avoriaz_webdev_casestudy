@@ -21,6 +21,15 @@ html {
     box-sizing: inherit;
 }
 
+.site-introh1 {
+    color: gray;
+}
+
+.site-introh3 {
+    color: var(--gray);
+    font-weight: lighter;
+}
+
 /* VIDEO BACKGROUND */
 #snowboarder {
     position: fixed;
