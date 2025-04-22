@@ -25,6 +25,7 @@ html {
     background-color: aliceblue;
     margin: 0;
     padding: 10px;
+    border-bottom: 10px solid #fdb273;
 }
 
 .header__logo {
@@ -34,7 +35,8 @@ html {
 
 .site-introh1 {
     color: #56617a;
-    font-size: 4rem;
+    font-size: 3rem;
+    font-weight: 400;
     line-height: 4rem;
     text-align: center;
     text-transform: uppercase;
@@ -51,10 +53,11 @@ html {
 /*logo section ON HOME PAGE */
 
 .section__logo {
-    background-color: #fdb273;
-    color: white;
+    font-weight: 200;
+    border-bottom: 1px solid #adb1b5;
+    color: #b6b8be;
     padding: 0 15px;
-    margin: 0;
+    margin: 20px;
 }
 
 .section__wordmarks {
@@ -70,15 +73,19 @@ html {
 /* colors section ON HOME PAGE  */
 
 .section__colors {
-    background-color: #fdb273;
-    color: white;
+    font-weight: 200;
+    border-bottom: 1px solid #adb1b5;
+    color: #b6b8be;
     padding: 0 15px;
+    margin: 20px;
 }
 
 .section__icons {
-    background-color: #fdb273;
-    color: white;
-    margin: 1rem 0 0 0;
+    font-weight: 200;
+    border-bottom: 1px solid #adb1b5;
+    color: #b6b8be;
+    padding: 0 15px;
+    margin: 20px;
 }
 
 .section__colorblocks {
@@ -115,18 +122,21 @@ html {
 /* BUTTONS SECTION ON HOME PAGE */
 
 .section__buttons {
-    background-color: #fdb273;
-    color: white;
+    font-weight: 200;
+    border-bottom: 1px solid #adb1b5;
+    color: #b6b8be;
     padding: 0 15px;
+    margin: 20px;
 }
 
 /* TYPOGRAPHY SECTION ON HOME PAGE */
 
 .section__typography {
-    background-color: #fdb273;
-    color: white;
+    font-weight: 200;
+    border-bottom: 1px solid #adb1b5;
+    color: #b6b8be;
     padding: 0 15px;
-    margin: 2rem 0;
+    margin: 20px;
 }
 
 .semibold600 {
@@ -229,6 +239,28 @@ html {
     font-weight: 300;
     font-style: italic;
 }
+
+.section__main-nav {
+    font-weight: 200;
+    border-bottom: 1px solid #adb1b5;
+    color: #b6b8be;
+    padding: 0 15px;
+    margin: 20px;
+}
+
+.section__features {
+    font-weight: 200;
+    border-bottom: 1px solid #adb1b5;
+    color: #b6b8be;
+    padding: 0 15px;
+    margin: 20px;
+}
+
+
+
+
+
+
 
 /* VIDEO BACKGROUND */
 #snowboarder {
