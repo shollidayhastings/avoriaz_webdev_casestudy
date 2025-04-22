@@ -129,7 +129,6 @@ html {
     margin: 2rem 0;
 }
 
-
 .semibold600 {
     font-weight: 600;
 }
@@ -272,7 +271,13 @@ html {
     color: gray
 }
 
-/* ORANGE BUTTONS */
+/* NAVIGATION */
+
+/* FEATURES */
+
+/* COMPONENTS SECTION!!!
+
+!!! ORANGE BUTTONS */
 
 .orange-do {
     font-family: var(--font-sans-serif);
