@@ -7,7 +7,9 @@
 
 body {
     font-family: Poppins;
-
+    display: grid;
+    grid-column: 200px 1fr;
+    justify-items: start;
 }
 
 
@@ -22,9 +24,11 @@ html {
     box-sizing: inherit;
 }
 
+
+
 .site-introh1 {
     color: #133a69;
-    font-size: 1.7rem;
+    font-size: 1.rem;
     text-align: center;
     margin: 2rem;
 }
@@ -40,15 +44,24 @@ html {
 }
 
 .sidebar__nav-links-container {
-    color: #133a69;
-    background-color: aliceblue;
+    color: white;
+    background-color: #133a69;
     padding: 1rem;
-    max-width: 250px;
+    max-width: 200px;
 }
 
-.sidebar__nav-links {
+.sidebar__list-title {
     text-decoration: none;
     list-style: none;
+    font-size: 1rem;
+    line-height: 1.8rem;
+}
+
+.sidebar__list-item {
+    text-decoration: none;
+    list-style: none;
+    font-size: .8rem;
+    line-height: 1.4rem;
 }
 
 /* VIDEO BACKGROUND */
@@ -853,6 +866,7 @@ a.navhero-extras:active {
 .headline__featureimg1 {
     position: relative;
     max-width: 900px;
+    margin: 0;
 }
 
 .feature4__headline {
