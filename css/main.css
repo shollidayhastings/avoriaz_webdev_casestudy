@@ -7,9 +7,6 @@
 
 body {
     font-family: Poppins;
-    display: grid;
-    grid-column: 200px 1fr;
-    justify-items: start;
 }
 
 
@@ -24,7 +21,38 @@ html {
     box-sizing: inherit;
 }
 
+.home__container {
+    display: grid;
+    grid-template-areas:
+        "header header"
+        "sidebar content"
+        "footer footer";
+    grid-template-columns: 1fr 3fr;
+    gap: 5px;
+    padding: 5px;
+}
 
+.container>div.header {
+    grid-area: header;
+    text-align: center;
+}
+
+.container>div.sidebar {
+    grid-area: sidebar;
+    background-color: #133a69;
+    color: white;
+    width: 200px;
+}
+
+.container>div.content {
+    grid-area: content;
+    background-color: white;
+}
+
+.container>div.footer {
+    grid-area: footer;
+    background-color: #fdb273;
+}
 
 .site-introh1 {
     color: #133a69;
