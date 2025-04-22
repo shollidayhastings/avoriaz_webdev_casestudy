@@ -252,6 +252,66 @@ html {
     margin: 4px;
 }
 
+/* BUTTON LOCKUP ON HOME PAGE */
+
+.btn__screenshot {
+    border: 1px solid black;
+}
+
+.btn__home-orange1 {
+    font-family: var(--font-sans-serif);
+    color: white;
+    background: #fdb273;
+    padding: 15px 120px;
+    font-size: 16px;
+    line-height: 8px;
+    text-align: left;
+    display: block;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+}
+
+.btn__home-text {
+    font-weight: 600;
+    font-size: 28px;
+    color: white;
+    line-height: 23px;
+}
+
+.btn__home-gray2 {
+    font-family: var(--font-sans-serif);
+    color: white;
+    background: #56617a;
+    padding: 15px 125px;
+    font-size: 16px;
+    line-height: 8px;
+    text-align: left;
+    display: block;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+}
+
+.btn__home-blue3 {
+    font-family: var(--font-sans-serif);
+    color: white;
+    background: #133a69;
+    padding: 15px 110px;
+    font-size: 16px;
+    line-height: 10px;
+    text-align: left;
+    display: block;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+}
+
+
+
+
+
+
 /* ICONS */
 
 
