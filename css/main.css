@@ -145,9 +145,30 @@ html {
     margin: 20px;
 }
 
-.semibold600 {
-    font-weight: 600;
+.type-img {
+    width: 250px;
+    display: block;
+    margin: 20px;
 }
+
+.type-stack-img {
+    width: 160px;
+    display: block;
+    margin: 20px;
+
+}
+
+.type_font-weights {
+    margin: 20px;
+}
+
+.type_font-header {
+    color: #b6b8be;
+    font-weight: 600;
+    margin: 20px;
+    border-bottom: 1px solid #adb1b5;
+}
+
 
 .thin100 {
     font-weight: 100;
