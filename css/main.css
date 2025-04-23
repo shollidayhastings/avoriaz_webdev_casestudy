@@ -542,6 +542,7 @@ html {
     left: 281px;
 }
 
+
 /*--------------------------------------------------------*/
 
 
@@ -1088,6 +1089,61 @@ a.navhero-extras:active {
     width: 250px;
     border: 1px solid black;
 }
+
+.popup-window {
+    width: 268px;
+    position: relative;
+}
+
+#btn-pop-x {
+    font-size: 14px;
+    color: #fdb273;
+    position: absolute;
+    left: 235px;
+    top: 335px;
+}
+
+.popup_h1 {
+    font-weight: 700;
+    font-size: 23px;
+    color: #fdb273;
+    position: absolute;
+    left: 25px;
+    top: 320px;
+}
+
+.popup_img {
+    width: 225px;
+    position: absolute;
+    left: 22px;
+    top: 370px;
+}
+
+.popup_text {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 1rem;
+    color: #56617a;
+    position: absolute;
+    left: 22px;
+    top: 480px;
+}
+
+.popup_btn-orange {
+    font-family: var(--font-sans-serif);
+    font-weight: 400;
+    border: none;
+    color: white;
+    background: #fdb273;
+    padding: 14px 90px;
+    font-size: 11px;
+    cursor: pointer;
+    position: absolute;
+    left: 22px;
+    top: 550px;
+}
+
+
 
 
 /*---------------------------------------------------*/
