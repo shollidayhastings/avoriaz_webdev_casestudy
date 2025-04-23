@@ -1143,9 +1143,72 @@ a.navhero-extras:active {
     top: 550px;
 }
 
+/*---------------------------------------------------*/
 
 
+/*---NAVIGATION ICONS----*/
 
+.icon-nav-img {
+    width: 100px;
+    border: 1px solid black;
+}
+
+.icon-btn_home {
+    background-color: white;
+    border: 1px solid white;
+    color: rgb(45, 93, 112);
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.icon-btn_dot {
+    background-color: white;
+    border: 1px solid white;
+    color: rgb(45, 93, 112);
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+    margin: 5px;
+}
+
+/*Icon Nav active Links*/
+
+a.icon-btn_home:link {
+    color: white;
+    text-decoration: none;
+}
+
+a.icon-btn_home:visited {
+    color: white;
+    border-color: white;
+    text-decoration: none;
+}
+
+a.icon-btn_home:hover {
+    font-size: 20px;
+    color: #fdb273;
+    border: 3px solid #fdb273;
+    font-weight: bolder;
+}
+
+a.icon-btn_home:active {
+    font-size: larger;
+    color: #fdb273;
+    border: 3px solid #fdb273;
+    font-weight: bolder;
+}
+
+*/
 /*---------------------------------------------------*/
 
 /* FEATURE TEXTS */
