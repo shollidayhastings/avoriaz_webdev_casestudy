@@ -129,6 +129,10 @@ html {
     margin: 20px;
 }
 
+.section__buttons-containter {
+    margin: 2rem;
+}
+
 /* TYPOGRAPHY SECTION ON HOME PAGE */
 
 .section__typography {
@@ -446,13 +450,29 @@ html {
     border: none;
     cursor: pointer;
     margin: 0;
+    position: relative;
 }
 
 .btn__home-text {
     font-weight: 600;
     font-size: 28px;
     color: white;
-    line-height: 23px;
+    line-height: 10px;
+}
+
+#btn__hotel-icon {
+    font-size: 2rem;
+    color: aqua;
+    position: absolute;
+    top: 87rem;
+    left: 13px;
+}
+
+.btn__home-textlg {
+    font-weight: 600;
+    font-size: 28px;
+    color: white;
+    line-height: 30px;
 }
 
 .btn__home-gray2 {
@@ -482,6 +502,8 @@ html {
     cursor: pointer;
     margin: 0;
 }
+
+
 
 
 
@@ -1013,6 +1035,12 @@ a.navhero-extras:active {
     display: block;
 }
 
+/*POPUP WINDOW SECTION*/
+
+.popup__agendaimg {
+    width: 250px;
+    border: 1px solid black;
+}
 
 
 
