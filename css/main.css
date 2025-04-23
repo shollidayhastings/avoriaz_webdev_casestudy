@@ -447,9 +447,9 @@ html {
     font-family: var(--font-sans-serif);
     color: white;
     background: #fdb273;
-    padding: 6px 70px;
+    padding: 9px 70px;
     font-size: 10px;
-    line-height: 6px;
+    line-height: 5px;
     text-align: left;
     display: block;
     border: none;
@@ -462,7 +462,7 @@ html {
     font-weight: 600;
     font-size: 15px;
     color: white;
-    line-height: 10px;
+    line-height: 4px;
 }
 
 #btn__hotel-icon {
@@ -482,9 +482,9 @@ html {
 
 .btn__home-gray2 {
     font-family: var(--font-sans-serif);
-    color: white;
-    background: #56617a;
-    padding: 6px 73px;
+    color: #133a69;
+    background: white;
+    padding: 10px 73px;
     font-size: 10px;
     line-height: 6px;
     text-align: left;
@@ -495,19 +495,26 @@ html {
     position: relative;
 }
 
+.btn__home-text-pass {
+    font-weight: 600;
+    font-size: 16px;
+    color: #133a69;
+    line-height: 4px;
+}
+
 #btn__card-icon {
     font-size: 1.2rem;
-    color: white;
+    color: #133a69;
     position: absolute;
-    top: 23.5rem;
+    top: 24rem;
     left: 100px;
 }
 
 #btn__arrow-card-icon {
     font-size: 1.1rem;
-    color: white;
+    color: #133a69;
     position: absolute;
-    top: 23.5rem;
+    top: 24rem;
     left: 281px;
 }
 
@@ -515,9 +522,9 @@ html {
     font-family: var(--font-sans-serif);
     color: white;
     background: #133a69;
-    padding: 6px 61px;
+    padding: 10px 61px;
     font-size: 10px;
-    line-height: 5px;
+    line-height: 2px;
     text-align: left;
     display: block;
     border: none;
@@ -530,7 +537,7 @@ html {
     font-size: 1.2rem;
     color: white;
     position: absolute;
-    top: 28.5rem;
+    top: 29rem;
     left: 100px;
 }
 
@@ -538,7 +545,7 @@ html {
     font-size: 1.1rem;
     color: white;
     position: absolute;
-    top: 28.5rem;
+    top: 29rem;
     left: 281px;
 }
 
