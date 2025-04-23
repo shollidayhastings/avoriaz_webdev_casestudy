@@ -283,6 +283,9 @@ html {
     margin: 20px;
 }
 
+/* NAVIGATION */
+
+/* FEATURES */
 
 /*---------------------COMPONENTS--------------------------------------*/
 
@@ -328,9 +331,6 @@ html {
     color: gray
 }
 
-/* NAVIGATION */
-
-/* FEATURES */
 
 /*-----------------------------------------------------------*/
 
@@ -1041,23 +1041,32 @@ a.navhero-extras:active {
 }
 
 /*links inside navbar*/
+.en-dropdown-img {
+    width: 100px;
+}
+
 .main__navbar a {
     float: left;
     font-size: 16px;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 20px;
     text-decoration: none;
-    background-color: #133a69;
+    background-color: #56617a;
     max-width: 75px;
+}
+
+.dropdown__content {
+    display: block;
 }
 
 /*dropdown container*/
 .dropdown {
     float: left;
     overflow: hidden;
-    background-color: rgb(169, 190, 191);
-    height: 150px;
+    background-color: white;
+    height: 90px;
+    display: block;
 }
 
 /*dropdown button*/
@@ -1081,11 +1090,9 @@ a.navhero-extras:active {
 
 /*dropdown content hidden by default*/
 .dropdown-content {
-    display: none;
+    display: block;
     position: absolute;
-    background-color: aliceblue;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba (0, 0, 0, 0.2);
     z-index: 1;
 }
 
@@ -1101,7 +1108,8 @@ a.navhero-extras:active {
 
 /*background color to dropdown links on hover*/
 .dropdown-content a:hover {
-    background-color: aliceblue;
+    background-color: #fdb273;
+    color: #fdb273;
 }
 
 /*show the dropdown menu on hover*/
@@ -1493,4 +1501,12 @@ a.icon-btn_home:active {
     position: absolute;
     top: 58rem;
     left: 32rem;
+}
+
+/*-------------feature 5-----------*/
+
+/*-------------feature 6-----------*/
+
+.event__srcimg {
+    width: 900px;
 }
