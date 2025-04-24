@@ -1660,3 +1660,253 @@ a.icon-btn_home:active {
 /*-------------feature 10-----------*/
 /*-------------feature 11-----------*/
 /*-------------feature 12-----------*/
+.contact__srcimg {
+    width: 900px;
+    margin: 2rem 0;
+}
+
+.contact__backimg {
+    width: 900px;
+    position: relative;
+}
+
+.contact__elk-icon {
+    width: 80px;
+    position: absolute;
+    top: 975px;
+    left: 420px;
+}
+
+.contact__title-media {
+    font-size: 20px;
+    color: #fdb273;
+    position: absolute;
+    top: 1070px;
+    left: 50px;
+}
+
+.outline-contact {
+    font-family: "poppins", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    color: #133a69;
+    padding: 10px 40px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #133a69;
+    position: absolute;
+    top: 1120px;
+    left: 50px;
+}
+
+.outline-press-pack {
+    font-family: "poppins", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    color: #133a69;
+    padding: 10px 65px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #133a69;
+    position: absolute;
+    top: 1120px;
+    left: 250px;
+}
+
+.contact__title-info {
+    font-size: 20px;
+    color: #fdb273;
+    position: absolute;
+    top: 1070px;
+    left: 500px;
+}
+
+.outline-brochures {
+    font-family: "poppins", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    color: #133a69;
+    padding: 10px 60px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #133a69;
+    position: absolute;
+    top: 1115px;
+    left: 498px;
+}
+
+.outline-faq {
+    font-family: "poppins", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    color: #133a69;
+    padding: 10px 70px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #133a69;
+    position: absolute;
+    top: 1115px;
+    left: 690px;
+}
+
+.outline-partners {
+    font-family: "poppins", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    color: #133a69;
+    padding: 10px 65px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #133a69;
+    position: absolute;
+    top: 1160px;
+    left: 498px;
+}
+
+.outline-seminars {
+    font-family: "poppins", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    color: #133a69;
+    padding: 10px 25px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #133a69;
+    position: absolute;
+    top: 1165px;
+    left: 695px;
+}
+
+.phone {
+    font-size: 20px;
+    color: #fdb273;
+    position: absolute;
+    top: 1190px;
+    left: 50px;
+}
+
+.email {
+    font-size: 17px;
+    color: #133a69;
+    position: absolute;
+    top: 1220px;
+    left: 50px;
+}
+
+.btn_contact-fb {
+    background-color: white;
+    color: #133a69;
+    border: 1px solid lightgray;
+    font-size: 10px;
+    border-radius: 50%;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 1270px;
+    left: 50px;
+}
+
+.btn_contact-ig {
+    background-color: white;
+    color: #133a69;
+    border: 1px solid lightgray;
+    font-size: 10px;
+    border-radius: 50%;
+    padding: 5px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 1270px;
+    left: 80px;
+}
+
+.btn_contact-twit {
+    background-color: white;
+    color: #133a69;
+    border: 1px solid lightgray;
+    font-size: 10px;
+    border-radius: 50%;
+    padding: 5px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 1270px;
+    left: 110px;
+}
+
+.btn_contact-youtube {
+    background-color: white;
+    color: #133a69;
+    border: 1px solid lightgray;
+    font-size: 10px;
+    border-radius: 50%;
+    padding: 5px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 1270px;
+    left: 140px;
+}
+
+.btn_contact-p {
+    background-color: white;
+    color: #133a69;
+    border: 1px solid lightgray;
+    font-size: 10px;
+    border-radius: 50%;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 1270px;
+    left: 170px;
+}
+
+.btn_contact-tik {
+    background-color: white;
+    color: #133a69;
+    border: 1px solid lightgray;
+    font-size: 10px;
+    border-radius: 50%;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 1270px;
+    left: 200px;
+}
+
+.contact__title-news {
+    font-size: 20px;
+    color: #fdb273;
+    position: absolute;
+    top: 1190px;
+    left: 500px;
+}
+
+.outline-register {
+    font-family: "poppins", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    color: #133a69;
+    padding: 10px 68px;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #133a69;
+    position: absolute;
+    top: 1240px;
+    left: 501px;
+}
