@@ -100,7 +100,8 @@ html {
     background-color: #fdb273;
     padding: 2rem;
     text-align: center;
-    margin: 0 5rem;
+    margin: 2rem;
+    display: inline-block;
 }
 
 .colorblock__gray {
@@ -109,7 +110,9 @@ html {
     background-color: #56617a;
     padding: 2rem;
     text-align: center;
-    margin: 0 5rem;
+    margin: 2rem;
+    display: inline-block;
+
 }
 
 .colorblock__blue {
@@ -118,7 +121,9 @@ html {
     background-color: #133a69;
     padding: 2rem;
     text-align: center;
-    margin: 0 5rem;
+    margin: 2rem;
+    display: inline-block;
+
 }
 
 /* BUTTONS SECTION ON HOME PAGE */
