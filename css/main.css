@@ -1510,3 +1510,148 @@ a.icon-btn_home:active {
 .event__srcimg {
     width: 900px;
 }
+
+/*-------------feature 7-----------*/
+
+/*-------------feature SOCIAL MEDIA 8-----------*/
+
+.social__container {
+    position: relative;
+}
+
+.social__h2 {
+    color: #fdb273;
+    font-size: 30px;
+    position: absolute;
+    top: 75px;
+    left: 355px;
+}
+
+.social__h1 {
+    color: #fdb273;
+    font-size: 90px;
+    position: absolute;
+    top: 93px;
+    left: 130px;
+}
+
+#btn_fb {
+    background-color: white;
+    color: #fdb273;
+    border: 2px solid #fcd2b0;
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 280px;
+    left: 200px;
+
+}
+
+#btn_ig {
+    background-color: white;
+    color: #fdb273;
+    border: 2px solid #fcd2b0;
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 280px;
+    left: 270px;
+}
+
+#btn_twit {
+    background-color: white;
+    color: #fdb273;
+    border: 2px solid #fcd2b0;
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 280px;
+    left: 340px;
+}
+
+#btn_youtube {
+    background-color: white;
+    color: #fdb273;
+    border: 2px solid #fcd2b0;
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 280px;
+    left: 410px;
+}
+
+#btn_p {
+    background-color: white;
+    color: #fdb273;
+    border: 2px solid #fcd2b0;
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 280px;
+    left: 480px;
+
+}
+
+#btn_tik {
+    background-color: white;
+    color: #fdb273;
+    border: 2px solid #fcd2b0;
+    font-size: 18px;
+    border-radius: 50%;
+    padding: 15px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 280px;
+    left: 550px;
+}
+
+.social__h1-bk {
+    color: black;
+    font-size: 90px;
+    position: absolute;
+    top: 300px;
+    left: 380px;
+}
+
+.btn_hand {
+    width: 65px;
+    position: absolute;
+    top: 500px;
+    left: 10px;
+}
+
+
+
+
+/*-------------feature 9-----------*/
+/*-------------feature 10-----------*/
+/*-------------feature 11-----------*/
+/*-------------feature 12-----------*/
