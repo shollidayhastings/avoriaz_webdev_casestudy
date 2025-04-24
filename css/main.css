@@ -1690,7 +1690,7 @@ a.icon-btn_home:active {
     font-size: x-small;
     font-weight: 600;
     color: #133a69;
-    padding: 10px 40px;
+    padding: 10px 35px;
     background-color: white;
     text-decoration: none;
     border: 1px solid #133a69;
@@ -1704,13 +1704,13 @@ a.icon-btn_home:active {
     font-size: x-small;
     font-weight: 600;
     color: #133a69;
-    padding: 10px 65px;
+    padding: 10px 55px;
     background-color: white;
     text-decoration: none;
     border: 1px solid #133a69;
     position: absolute;
     top: 1120px;
-    left: 250px;
+    left: 240px;
 }
 
 .contact__title-info {
