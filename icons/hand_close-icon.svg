@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 448 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #133a69;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2.35px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.6, SVG Export Plug-In . SVG Version: 1.2.0 Build 188)  -->
+  <g>
+    <g id="Layer_1">
+      <circle class="cls-1" cx="224" cy="233" r="59"/>
+      <path class="cls-2" d="M209.71,211.71c-1.76-1.76-4.6-1.76-6.35,0-1.76,1.76-1.76,4.6,0,6.35l14.29,14.29-14.29,14.29c-1.76,1.76-1.76,4.6,0,6.35s4.6,1.76,6.35,0l14.29-14.29,14.29,14.29c1.76,1.76,4.6,1.76,6.35,0s1.76-4.6,0-6.35l-14.29-14.29,14.29-14.29c1.76-1.76,1.76-4.6,0-6.35s-4.6-1.76-6.35,0l-14.29,14.29-14.29-14.29Z"/>
+      <g>
+        <line class="cls-3" x1="219.87" y1="362" x2="203.58" y2="362"/>
+        <polygon class="cls-2" points="212.08 352.38 210.48 354.1 218.97 362 210.48 369.89 212.08 371.62 222.42 362 212.08 352.38"/>
+      </g>
+    </g>
+  </g>
+</svg>

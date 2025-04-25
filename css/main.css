@@ -339,8 +339,129 @@ html {
 
 /*-----------------------------------------------------------*/
 
-/* COMPONENTS SECTION!!!
-!!! ORANGE BUTTONS */
+/* COMPONENTS SECTION!!!*/
+
+
+
+
+/*---COOKIE POP UP-----*/
+
+.hand__srcimg {
+    width: 350px;
+}
+
+.cookie_bubble {
+    font-size: 9px;
+    background-color: white;
+    border: 1px solid #d1d3da;
+    color: #999ca0;
+    border-radius: 18px;
+    padding: 8px;
+    width: 140px;
+    position: absolute;
+    top: 350px;
+    left: 206px;
+}
+
+.cookie__container {
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid #d1d3da;
+    width: 350px;
+    position: relative;
+    height: 330px;
+}
+
+.cookie__sub {
+    font-size: 14px;
+    padding: 15px 0 0 15px;
+    margin: 0;
+}
+
+.cookie__h3 {
+    font-size: 20px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.cookie__elk-icon {
+    width: 85px;
+    position: absolute;
+    top: 5px;
+    left: 240px;
+}
+
+.cookie__pcopy1 {
+    font-size: 10px;
+    line-height: 15px;
+    color: #adb1b5;
+    position: absolute;
+    top: 60px;
+    left: 15px;
+}
+
+.cookie__sub2-container {
+    border: 2px solid #d1d3da;
+    border-radius: 10px;
+    width: 320px;
+    position: absolute;
+    top: 140px;
+    left: 14px;
+}
+
+.cookie__sub2 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0 0 0 10px;
+}
+
+.cookie__pcopy2 {
+    font-size: 10px;
+    line-height: 15px;
+    color: #adb1b5;
+    padding: 0 0 0 10px;
+}
+
+.cookie__pcopy {
+    font-size: 10px;
+    color: #d1d3da;
+    position: absolute;
+    top: 640px;
+    left: 90px;
+    border-bottom: 1px solid #b6b8be;
+}
+
+.cookie_boldp {
+    font-size: 12px;
+    font-weight: 600;
+    position: absolute;
+    top: 690px;
+    left: 40px;
+}
+
+.cookie__btn-navy {
+    font-size: 12px;
+    color: white;
+    font-weight: 600;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 680px;
+    left: 167px;
+    background-color: #133a69;
+    padding: 10px 80px 10px 80px;
+}
+
+.cookie__btn-close {
+    width: 125px;
+    position: absolute;
+    top: 690px;
+}
+
+
+
+
+/*!!! ORANGE BUTTONS */
 
 .orange-do {
     font-family: var(--font-sans-serif);
