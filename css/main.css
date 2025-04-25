@@ -1516,7 +1516,175 @@ a.icon-btn_home:active {
     width: 900px;
 }
 
-/*-------------feature 7-----------*/
+/*-------------feature EVENTS CALENDAR7-----------*/
+
+.event_backimg {
+    width: 900px;
+    position: relative;
+}
+
+.events__subhead {
+    font-size: 25px;
+    color: #fdb273;
+    position: absolute;
+    top: 545px;
+    left: 360px;
+}
+
+.events__headline {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    position: absolute;
+    top: 560px;
+    left: 280px;
+}
+
+.event__lgdatel-1 {
+    font-size: 36px;
+    color: white;
+    position: absolute;
+    top: 750px;
+    left: 50px;
+}
+
+.event__lgdater {
+    font-size: 36px;
+    color: #fdb273;
+    position: absolute;
+    top: 750px;
+    left: 95px;
+}
+
+.event__smdate1 {
+    font-size: 14px;
+    color: white;
+    opacity: .5;
+    position: absolute;
+    top: 805px;
+    left: 95px;
+}
+
+.event__title1 {
+    font-size: 10px;
+    font-weight: 600;
+    color: white;
+    position: absolute;
+    top: 780px;
+    left: 140px;
+}
+
+.event__copy1 {
+    font-size: 7px;
+    color: white;
+    opacity: .5;
+    position: absolute;
+    top: 800px;
+    left: 140px;
+}
+
+/*---2nd event--*/
+.event__lgdatel-2 {
+    font-size: 36px;
+    color: white;
+    position: absolute;
+    top: 750px;
+    left: 320px;
+}
+
+.event__lgdater2 {
+    font-size: 36px;
+    color: #fdb273;
+    position: absolute;
+    top: 750px;
+    left: 373px;
+}
+
+.event__smdate2 {
+    font-size: 14px;
+    color: white;
+    opacity: .5;
+    position: absolute;
+    top: 805px;
+    left: 370px;
+}
+
+.event__title2 {
+    font-size: 10px;
+    font-weight: 600;
+    color: white;
+    position: absolute;
+    top: 780px;
+    left: 420px;
+}
+
+.event__copy2 {
+    font-size: 7px;
+    color: white;
+    opacity: .5;
+    position: absolute;
+    top: 800px;
+    left: 420px;
+}
+
+/*---3rd event--*/
+.event__lgdatel-3 {
+    font-size: 36px;
+    color: white;
+    position: absolute;
+    top: 750px;
+    left: 590px;
+}
+
+.event__lgdater3 {
+    font-size: 36px;
+    color: #fdb273;
+    position: absolute;
+    top: 750px;
+    left: 634px;
+}
+
+.event__smdate3 {
+    font-size: 14px;
+    color: white;
+    opacity: .5;
+    position: absolute;
+    top: 805px;
+    left: 635px;
+}
+
+.event__title3 {
+    font-size: 10px;
+    font-weight: 600;
+    color: white;
+    position: absolute;
+    top: 780px;
+    left: 680px;
+}
+
+.event__copy3 {
+    font-size: 7px;
+    color: white;
+    opacity: .8;
+    position: absolute;
+    top: 800px;
+    left: 680px;
+}
+
+.event__orangebtn {
+    font-family: var(--font-sans-serif);
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: #fdb273;
+    padding: 10px 20px;
+    font-size: 8px;
+    cursor: pointer;
+    position: absolute;
+    top: 883px;
+    left: 450px;
+}
 
 /*-------------feature SOCIAL MEDIA 8-----------*/
 
