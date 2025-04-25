@@ -1825,6 +1825,42 @@ a.icon-btn_home:active {
 
 
 /*-------------feature 9-----------*/
+
+.view__src img {
+    width: 900px;
+}
+
+.view__backimg {
+    width: 900px;
+    position: relative;
+}
+
+.view__h3 {
+    font-size: 20px;
+    color: #fdb273;
+    position: absolute;
+    top: 490px;
+    left: 420px;
+}
+
+.view__o {
+    font-size: 13px;
+    color: #fdb273;
+    position: absolute;
+    top: 495px;
+    left: 490px;
+}
+
+.view__360 {
+    width: 50px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 650px;
+    left: 430px;
+}
+
 /*-------------feature 10-----------*/
 /*-------------feature 11-----------*/
 /*-------------feature 12-----------*/
