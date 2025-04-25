@@ -1508,7 +1508,73 @@ a.icon-btn_home:active {
     left: 32rem;
 }
 
-/*-------------feature 5-----------*/
+/*-------------feature DEALS 5-----------*/
+
+.deal__backimg {
+    width: 900px;
+    margin: 2rem;
+    position: relative;
+}
+
+.deal__h2 {
+    color: #fdb273;
+    font-size: 25px;
+    position: absolute;
+    top: 490px;
+    left: 400px;
+}
+
+.deal__h2-orange {
+    color: white;
+    font-size: 17px;
+    background-color: #fdb273;
+    padding: 8px;
+    position: absolute;
+    top: 585px;
+    left: 410px;
+}
+
+.deal__h1 {
+    color: white;
+    font-size: 40px;
+    padding: 8px;
+    position: absolute;
+    top: 605px;
+    left: 320px;
+}
+
+.deal__btn_arrow-l {
+    width: 165px;
+    position: absolute;
+    top: 505px;
+    left: 20px;
+}
+
+.deal__btn_hand {
+    width: 50px;
+    position: absolute;
+    top: 805px;
+    left: 20px;
+}
+
+.deal__btn-orange {
+    font-family: var(--font-sans-serif);
+    font-weight: bold;
+    border: none;
+    color: white;
+    background: #fdb273;
+    padding: 13px 25px;
+    font-size: 7px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 4px;
+    position: absolute;
+    top: 790px;
+    left: 805px;
+
+
+}
+
 
 /*-------------feature 6-----------*/
 

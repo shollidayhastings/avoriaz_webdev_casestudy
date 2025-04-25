@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 129.63 123.55">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fbb173;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 1.24px;
+      }
+
+      .cls-5 {
+        opacity: .56;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.6, SVG Export Plug-In . SVG Version: 1.2.0 Build 188)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <circle class="cls-3" cx="59.48" cy="49" r="19.14"/>
+        <g>
+          <line class="cls-1" x1="62.4" y1="49" x2="55.47" y2="49"/>
+          <polygon class="cls-4" points="59.09 44.91 58.4 45.64 62.02 49 58.4 52.36 59.09 53.09 63.48 49 59.09 44.91"/>
+        </g>
+      </g>
+      <g>
+        <path class="cls-2" d="M61.65,30.01c2.33.26,4.51.92,6.48,1.92"/>
+        <path class="cls-2" d="M68.13,31.92c3.44,1.73,6.26,4.46,8.11,7.77"/>
+      </g>
+      <g class="cls-5">
+        <circle class="cls-3" cx="59.48" cy="94.22" r="19.14"/>
+        <g>
+          <line class="cls-1" x1="56.56" y1="94.22" x2="63.48" y2="94.22"/>
+          <polygon class="cls-4" points="59.87 98.31 60.55 97.58 56.94 94.22 60.55 90.86 59.87 90.13 55.47 94.22 59.87 98.31"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
