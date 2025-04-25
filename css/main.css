@@ -1863,7 +1863,7 @@ a.icon-btn_home:active {
 
 /*-------------feature 10-----------*/
 /*-------------feature 11-----------*/
-/*-------------feature 12-----------*/
+/*-------------feature CONTACT 12-----------*/
 .contact__srcimg {
     width: 900px;
     margin: 2rem 0;
@@ -2113,4 +2113,30 @@ a.icon-btn_home:active {
     position: absolute;
     top: 1240px;
     left: 501px;
+}
+
+/*-------------feature FOOTER 12-----------*/
+
+.footer__srcimg {
+    width: 900px;
+}
+
+.footer__container {
+
+    background-color: #133a69;
+    display: flex;
+    justify-content: center;
+    padding: 0 2rem;
+}
+
+.footer__logo {
+    width: 55px;
+    height: fit-content;
+    padding: 10px;
+    align-items: center;
+}
+
+.footer__copyright {
+    font-size: 10px;
+    color: #133a69;
 }
